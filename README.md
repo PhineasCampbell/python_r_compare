@@ -4,4 +4,4 @@ requires the pandas, numpy and scikit-learn libraries to be intalled
 
 From the command line type: python3 simulate.py
 The python generates 10,000 simluations of a 60*2 model, uses scikit-learn to fit the linear model
-Then calls R to fir the same mode and compares the output
+Then calls R to fit the same model and compares the output
